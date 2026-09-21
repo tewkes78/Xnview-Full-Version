@@ -265,4 +265,4 @@ This repository serves as the official landing page for XnView. The software is 
 **Get the most recent version of XnView today!**
 
 ---
-**Last updated:** 2026-09-21 13:49:08 UTC
+**Last updated:** 2026-09-21 19:12:08 UTC
